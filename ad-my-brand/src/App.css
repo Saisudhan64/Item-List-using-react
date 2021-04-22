@@ -1,0 +1,50 @@
+.App {
+  clip-path: polygon(0 0, 100% 0%, 100% 84%, 0% 100%);
+  background-color: #B53737;
+  height:99vh;
+  width:99vw;
+  box-sizing: border-box;
+  padding:5vw;
+}
+.itemslist{
+  background-color:#f1f1f1;
+  height:33vw;
+  width: 25vw;
+  border-radius:1vw;
+  margin:auto;
+  box-sizing: border-box;
+  padding:0.2vw;
+  overflow:auto;
+}
+.plus{
+  font-weight:bolder;
+  font-size: 2.2vw;
+  float:right;
+  padding-right:0.7vw; 
+  padding-top:0.2vw;
+  cursor: pointer;
+}
+.header{
+  font-size:1.6vw;
+  font-weight:bold;
+  color:white;
+  margin:41vw;
+}
+.divbox{
+  border-bottom:1.5px solid black;
+  height:4vw;
+}
+.inputfield{
+  width:20vw;
+  height:2vw;
+  border-radius: 12px;
+  box-sizing: border-box;
+  margin-top: 1vw;
+  padding:1vw;
+  margin-left:0.7vw;
+  outline: none;
+}
+.list{
+  margin-left:0.5vw;
+  
+}
